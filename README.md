@@ -1,7 +1,7 @@
 # Uniform-Cost-Search-UCS-Romania-Map-Problem
 
 This is an implementation of UCS for Romania Map Problem which one of most basic and most used problems for understanding of Search Algorithms in AI
-Map data has been converted to a python graph.The implementation is done . For this assignment we were to say that all edges costs are the same; 1. As this data is read it is stored in a dictionary, that behaves like an adjacency list; therefore, each key is a parent node and the keys are its children allowing for searches and traversals to be done efficiently.
+Map data has been converted to a python graph.The implementation is done . As this data is read it is stored in a dictionary, that behaves like an adjacency list; therefore, each key is a parent node and the keys are its children allowing for searches and traversals to be done efficiently.The Cost of each edge is provided in definition of graph
 
 Only set up necessary is if you want the program to spit out all of the possible results by running a script that feeds it all of the possible input.
 
